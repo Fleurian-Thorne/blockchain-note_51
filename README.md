@@ -24,7 +24,7 @@
 ├── LICENSE                # MIT开源许可证
 └── README.md              # 项目主说明文档
 
-```markdown
+```
 ### 参与方式
 1. Watch：订阅仓库更新通知
 2. Star：收藏本项目
