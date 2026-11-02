@@ -11,8 +11,10 @@
 
 ## 项目目录结构
 
+```text
+blockchain-note_51/
 ├── demo/
-│   └── hash_demo.c        # 简易哈希 C 语言演示代码
+│   └── hash_demo.c        # 简易哈希C语言演示代码
 ├── docs/
 │   ├── 项目定位.md         # 项目说明文档
 │   └── 开发规范.md         # 分支、提交规范
@@ -20,7 +22,7 @@
 │   ├── crypto.md          # 密码学基础笔记
 │   └── consensus.md       # 共识机制笔记
 ├── CONTRIBUTING.md        # 贡献指南
-├── LICENSE                # MIT 开源许可证
+├── LICENSE                # MIT开源许可证
 └── README.md              # 项目主说明文档
 
 ### 参与方式
